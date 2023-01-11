@@ -21,4 +21,4 @@ If you want to work with us or you have commercial offers, write to me - alexand
 > * **VK** @exillite
 > * **Gmail** sa27shal@gmail.com
 > * **Email** alexander-rodionov@exillite.xyz
-> * **CF** https://codeforces.com/profile/Alex77GD
+> * **CF** https://codeforces.com/profile/Exillite
