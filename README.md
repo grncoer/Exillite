@@ -18,9 +18,9 @@ If you want to work with us or you have commercial offers, write to me - alexand
 <a href="https://t.me/greencod3"> <sub>My telegram cahhel in russin</sub> </a>
 
 >   For communication:
+> * **Email** alexander@rodionov.space
 > * **tg** @exillite
 > * **GH** https://github.com/Exillite
 > * **VK** @exillite
 > * **Gmail** sa27shal@gmail.com
-> * **Email** alexander-rodionov@exillite.xyz
-> * **CF** https://codeforces.com/profile/Alex77GD
+> * **CF** https://codeforces.com/profile/Exillite
